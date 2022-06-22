@@ -20,6 +20,6 @@ public class NumberFullPyramid {
                 System.out.print(" "+(l+i-1));
             }
             System.out.println();
-        } sc.close();
+        }// sc.close();
     }
 }
