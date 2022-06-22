@@ -16,7 +16,7 @@ import java.util.Scanner;
                     temp = temp * (i - k) / (k);
                 }
                 System.out.println();
-                sc.close();
+               // sc.close();
             }
         }
     } 
